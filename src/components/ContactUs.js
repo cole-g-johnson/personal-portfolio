@@ -14,8 +14,9 @@ export default class ContactUs extends Component {
           <div className="row">
             <aside className="eigth columns footer-widgets">
               <div className="widget">
-                <p>Portfolio Template Credit Rahul Bhatia:
-                  {resumeData.linkedinId}
+                <p>
+                  Portfolio Template Created By Rahul Bhatia: {resumeData.linkedinId} <br></br>
+                  Code Assistance From Andrew Bautista: https://github.com/WarriorofZarona/React-Portfolio-1
                 </p>
               </div>
             </aside>
