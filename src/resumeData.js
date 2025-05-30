@@ -36,11 +36,18 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Google",
+        "specialization":"Software Engineer",
+        "MonthOfLeaving":"June 2025 -",
+        "YearOfLeaving":"Present",
+        "Achievements":""
+      },
+      {
         "CompanyName":"Microsoft",
         "specialization":"Technical Product Manager",
         "MonthOfLeaving":"Aug 2023 -",
-        "YearOfLeaving":"Present",
-        "Achievements":""
+        "YearOfLeaving":"June 2025",
+        "Achievements":"Cultivating and maintaining strong relationships with key stakeholders across Microsoft, fostering open communication and collaboration to drive Java project initiatives, community events, and semester planning."
       },
       {
         "CompanyName":"Mutual of Omaha",
