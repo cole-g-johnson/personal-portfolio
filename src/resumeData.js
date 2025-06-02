@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Program Manager and Data Scientist",
     "linkedinId":" https://github.com/rbhatia46/React-Portfolio",
     "skypeid": "Your skypeid",
-    "roleDescription": " I enjoy learning about new techinques in machine learning, data science, artificial intelligence, and their interdiciplinary application to existing industries. Join me on my YouTube channel as I continue my learning journey.",
+    "roleDescription": " I enjoy learning about new techniques in machine learning, data science, artificial intelligence, and their interdisciplinary application to existing industries. Join me on my YouTube channel as I continue my learning journey.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,11 +22,25 @@ let resumeData = {
           "className":"fa fa-youtube"
         }
       ],
-    "aboutme":"Stemming from an interest in statistics and computer science, I graduated with double major in Computer Science and Mathematics in 2023. Throughout college I learned machine learning and data science thorugh courses, summer internships, and personal projects. Now in my professional career I continue my learning journey thorough my YouTube channel where I  post personal project and concept explanations. During the day I support talented developers in my role as a Project Manager to further company growth.",
+    "aboutme":"Stemming from an interest in statistics and computer science, I graduated with a double major in Computer Science and Mathematics in 2023. Throughout college I learned machine learning and data science thorugh courses, summer internships, and personal projects. Now in my professional career I continue my learning journey thorough my YouTube channel where I  post personal project and concept explanations. During the day I support talented developers in my role as a Project Manager to further company growth.",
     "address":"Seattle, WA",
     "website":"cole.johnson.career@gmail.com",
     "education":[
       {
+        "UniversityName":"Georgia Institute of Technology",
+        "specialization":"M.S. in Computer Science",
+        "MonthOfPassing":"Jan",
+        "YearOfPassing":"2025",
+        "Achievements":Jeffrey S. Raikes School of Computer Science and Management"
+      },
+        {
+        "UniversityName":"University of Texas - Austin",
+        "specialization":"M.S. in Data Science",
+        "MonthOfPassing":"Jan",
+        "YearOfPassing":"2025",
+        "Achievements":""
+      },
+        {
         "UniversityName":"University of Nebraska - Lincoln",
         "specialization":"B.S. in Computer Science and Mathematics",
         "MonthOfPassing":"Aug",
@@ -36,11 +50,18 @@ let resumeData = {
     ],
     "work":[
       {
+        "CompanyName":"Google",
+        "specialization":"Software Engineer",
+        "MonthOfLeaving":"June 2025 -",
+        "YearOfLeaving":"Present",
+        "Achievements":""
+      },
+      {
         "CompanyName":"Microsoft",
         "specialization":"Technical Product Manager",
         "MonthOfLeaving":"Aug 2023 -",
-        "YearOfLeaving":"Present",
-        "Achievements":""
+        "YearOfLeaving":"June 2025",
+        "Achievements":"Cultivating and maintaining strong relationships with key stakeholders across Microsoft, fostering open communication and collaboration to drive Java project initiatives, community events, and semester planning."
       },
       {
         "CompanyName":"Mutual of Omaha",
@@ -61,7 +82,7 @@ let resumeData = {
         "specialization":"Data Science Intern",
         "MonthOfLeaving":"Aug 2021 -",
         "YearOfLeaving":"May 2022",
-        "Achievements":"Created and tuned multiple supervised learning models including random forest and logistic regression within PowerBi's Python development tool to forecast the probability a loan would enter non-accrual."
+        "Achievements":"Created and tuned multiple supervised learning models, including random forest and logistic regression within PowerBi's Python development tool to forecast the probability a loan would enter non-accrual."
       },
       {
         "CompanyName":"Nelnet",
