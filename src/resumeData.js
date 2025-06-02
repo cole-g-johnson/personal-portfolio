@@ -29,15 +29,15 @@ let resumeData = {
       {
         "UniversityName":"Georgia Institute of Technology",
         "specialization":"M.S. in Computer Science",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2025",
-        "Achievements":Jeffrey S. Raikes School of Computer Science and Management"
+        "MonthOfPassing":"In Progress",
+        "YearOfPassing":"",
+        "Achievements":""
       },
         {
         "UniversityName":"University of Texas - Austin",
         "specialization":"M.S. in Data Science",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2025",
+        "MonthOfPassing":"In Progress",
+        "YearOfPassing":"",
         "Achievements":""
       },
         {
